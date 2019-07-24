@@ -13,7 +13,6 @@ function save(data) {
 }
 
 function converAndSave(data) {
-  console.log(data)
   const convertedData = json2xml(JSON.parse(data));
   save(convertedData);
 }

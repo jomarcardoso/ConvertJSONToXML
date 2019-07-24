@@ -1,0 +1,14 @@
+{
+  "name": "jo-convertjsontoxml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "json2xml.js",
+  "scripts": {
+    "start": "npm install && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
